@@ -46,3 +46,5 @@ a.sort() #오름차순으로 바꿈
 print(a)
 a.sort(reverse=True) #내림차순
 print(a)
+a.clear() #빈리스트 출력
+print(a)
