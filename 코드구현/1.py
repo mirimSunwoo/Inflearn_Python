@@ -1,6 +1,6 @@
 #k번째 약수 풀이
 import sys
-# sys.stdin = open("input.txt",'rt')
+sys.stdin = open("input.txt",'rt')
 
 n,k = map(int, input().split()) #각각의 숫자들을 int형으로 바꿈
 cnt = 0
